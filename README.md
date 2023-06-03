@@ -3,11 +3,11 @@ Air travel is one of the most popular, efficient, and safe methods of transporta
 
 In this project:
 
-Creating classes and objects
-Constructors, getters, setters, and other instance methods
-Loading data from text files
-Cleaning and parsing data from text files
-Working with dictionaries and sets
-Algorithm development and testing
-Designing test cases
-Following program specifications
+1. Creating classes and objects
+2. Constructors, getters, setters, and other instance methods
+3. Loading data from text files
+4. Cleaning and parsing data from text files
+5. Working with dictionaries and sets
+6. Algorithm development and testing
+7. Designing test cases
+8. Following program specifications
