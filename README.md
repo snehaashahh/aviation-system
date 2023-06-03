@@ -1,21 +1,13 @@
 # aviation-system
-You are finally launching the business you’ve been planning for years – an online PC shop! This shop will allow customers to buy from one of two main categories: custom builds (a computer that is built and customized to meet specific customer needs) and pre-built machines (complete systems assembled by well-known manufacturers using balanced hardware configurations). You currently only carry a relatively small (but powerful) inventory of items, but you want to give your customers the best experience possible anyways. You will be writing a program (using Python) that allows users to order items from your shop.
+Air travel is one of the most popular, efficient, and safe methods of transportation, especially for long-distance travels. As we approach the summer season, we can expect that millions will be travelling by airplanes to visit family or friends. Airlins and air travel agencies helps connect people around the globe using aviation management systems. In this assignment, you are asked to implement a program that loads text files representing some of the airports and flights around the world and analyzes the flights according to specifications.
 
-In this project, you will learn to:
-- Creating functions
-- Calling functions and using returned values
-- User input in a loop
-- Conditionals
-- Lists, 2-D lists, and tuples
-- String formatting for clean output
+In this project:
 
-To begin, let’s note a few things. If your customers are building a computer, they absolutely must have these essential parts:
-1. Central Processing Unit (CPU) for executing instructions
-2. Motherboardforallowingcommunicationbetweencrucialcomponentsof
-the system
-3. Random Access Memory (RAM) for storing information that needs to be
-retrieved quickly
-4. Power Supply Unit (PSU) for powering the components within the system
-5. Either a Solid State Drive (SSD) or a Hard Disk Drive (HDD) (or both) for
-storage
-6. Acaseforstoringthecomponents
+Creating classes and objects
+Constructors, getters, setters, and other instance methods
+Loading data from text files
+Cleaning and parsing data from text files
+Working with dictionaries and sets
+Algorithm development and testing
+Designing test cases
+Following program specifications
